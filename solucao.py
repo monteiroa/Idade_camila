@@ -23,7 +23,3 @@ elif b >= c and b <= a:
 
 else:
     print("A idade de Camila é:", c)
-
-# Soma as três idades e subtrai a maior e a menor
-# O valor restante é a idade intermediária (de Camila)
-print(a + b + c - max(a, b, c) - min(a, b, c))
