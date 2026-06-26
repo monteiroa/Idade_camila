@@ -5,8 +5,7 @@ Cibele, Camila e Celeste são três irmãs inseparáveis. Estão sempre juntas e
 Mas nada disso interessa para esta tarefa: estamos interessados apenas nas suas idades. Sabemos que Cibele nasceu antes de Camila e Celeste nasceu depois de Camila.
 Dados três números inteiros indicando as idades das irmãs, escreva um programa para determinar a idade de Camila.
 
-Entrada
-A entrada é composta por três linhas, cada linha contendo um número inteiro N, a idade de uma das irmãss.
+A entrada é composta por três linhas, cada linha contendo um número inteiro N, a idade de uma das irmãs.
 
 Entrada:
 6
