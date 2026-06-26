@@ -8,7 +8,7 @@ Dados três números inteiros indicando as idades das irmãs, escreva um program
 Entrada
 A entrada é composta por três linhas, cada linha contendo um número inteiro N, a idade de uma das irmãss.
 
-Entrada
+Entrada:
 6
 9
 7  
